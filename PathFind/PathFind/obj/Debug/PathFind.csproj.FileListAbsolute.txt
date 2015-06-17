@@ -1,0 +1,18 @@
+C:\Users\LuizHenrique\Desktop\SearchTechniques\PathFind\PathFind\bin\Debug\PathFind.exe.config
+C:\Users\LuizHenrique\Desktop\SearchTechniques\PathFind\PathFind\bin\Debug\PathFind.exe
+C:\Users\LuizHenrique\Desktop\SearchTechniques\PathFind\PathFind\bin\Debug\PathFind.pdb
+C:\Users\LuizHenrique\Desktop\SearchTechniques\PathFind\PathFind\obj\Debug\PathFind.csprojResolveAssemblyReference.cache
+C:\Users\LuizHenrique\Desktop\SearchTechniques\PathFind\PathFind\obj\Debug\PathFind.Form1.resources
+C:\Users\LuizHenrique\Desktop\SearchTechniques\PathFind\PathFind\obj\Debug\PathFind.Properties.Resources.resources
+C:\Users\LuizHenrique\Desktop\SearchTechniques\PathFind\PathFind\obj\Debug\PathFind.csproj.GenerateResource.Cache
+C:\Users\LuizHenrique\Desktop\SearchTechniques\PathFind\PathFind\obj\Debug\PathFind.exe
+C:\Users\LuizHenrique\Desktop\SearchTechniques\PathFind\PathFind\obj\Debug\PathFind.pdb
+C:\Users\LuizHenrique\Desktop\Projetos NAVE\PathFind\PathFind\bin\Debug\PathFind.exe.config
+C:\Users\LuizHenrique\Desktop\Projetos NAVE\PathFind\PathFind\obj\Debug\PathFind.exe
+C:\Users\LuizHenrique\Desktop\Projetos NAVE\PathFind\PathFind\obj\Debug\PathFind.pdb
+C:\Users\LuizHenrique\Desktop\Projetos NAVE\PathFind\PathFind\bin\Debug\PathFind.exe
+C:\Users\LuizHenrique\Desktop\Projetos NAVE\PathFind\PathFind\bin\Debug\PathFind.pdb
+C:\Users\LuizHenrique\Desktop\Projetos NAVE\PathFind\PathFind\obj\Debug\PathFind.csprojResolveAssemblyReference.cache
+C:\Users\LuizHenrique\Desktop\Projetos NAVE\PathFind\PathFind\obj\Debug\PathFind.Form1.resources
+C:\Users\LuizHenrique\Desktop\Projetos NAVE\PathFind\PathFind\obj\Debug\PathFind.Properties.Resources.resources
+C:\Users\LuizHenrique\Desktop\Projetos NAVE\PathFind\PathFind\obj\Debug\PathFind.csproj.GenerateResource.Cache
